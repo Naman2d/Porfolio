@@ -17,4 +17,4 @@ https://github.com/Naman2d/Porfolio/blob/Bioinformatics_ExCD/output/Figure_1.png
 ```bash
 git clone https://github.com/your-repo/fastq-quality-analysis-tool.git
 
-##**Outout**
+
