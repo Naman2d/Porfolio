@@ -10,6 +10,9 @@ A Python-based bioinformatics tool designed for parsing, analyzing, and visualiz
 ✅ **Nucleotide Frequency** – Count occurrences of A, C, G, and T bases  
 ✅ **Data Visualization** – Generate bar plots for nucleotide frequency representation  
 
+![Analysis outout](output/figure_1.png)
+
+https://github.com/Naman2d/Porfolio/blob/Bioinformatics_ExCD/output/Figure_1.png
 ## **Installation**  
 ```bash
 git clone https://github.com/your-repo/fastq-quality-analysis-tool.git
